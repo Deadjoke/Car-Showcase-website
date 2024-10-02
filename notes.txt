@@ -1,0 +1,25 @@
+CRUD 
+create 
+(action . handler , name , enctype)
+
+read 
+get all 
+get specifi item
+
+update 
+
+delete
+
+
+get all products 
+get one product 
+delete product 
+update product
+
+querystring ?product_id=3
+
+
+create category page
+search functionality 
+pagination ==> no of items / page
+
